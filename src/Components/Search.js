@@ -49,7 +49,7 @@ class Search extends Component {
                 <br />
                 <SelectField
                     name="Amount"
-                    floatingLabelText="Amount"
+                    floatingLabelText="Results"
                     value={this.state.amount}
                     onChange={this.onAmountChange}
                 >
